@@ -1,0 +1,8 @@
+Simple video recording tools
+---
+
+Yes, it assumes GTK & Linux.
+
+Two tools so far:
+decoration.py toggles the active window’s decoration, removing the border etc.
+resize.py bumps the active window’s size to 720p.
